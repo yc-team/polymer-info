@@ -18,3 +18,7 @@ info for polymer
     <a href="https://github.com/Polymer" target="_blank"></a>
 </paper-item>
 ```
+
+## core-icon
+
+[官方文档](https://www.polymer-project.org/components/core-icon/demo.html)
