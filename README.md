@@ -27,3 +27,8 @@ info for polymer
 ## core-menu
 
 [官方文档](https://www.polymer-project.org/components/core-menu/demo.html)
+
+
+## paper-menu-button
+
+[官方文档](https://www.polymer-project.org/components/paper-menu-button/demo.html)
