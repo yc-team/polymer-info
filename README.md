@@ -22,3 +22,8 @@ info for polymer
 ## core-icon
 
 [官方文档](https://www.polymer-project.org/components/core-icon/demo.html)
+
+
+## core-menu
+
+[官方文档](https://www.polymer-project.org/components/core-menu/demo.html)
