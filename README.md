@@ -67,5 +67,5 @@ info for polymer
 ```
 
 ```html
-<paper-item icon="refresh" label="Refresh"></paper-item>
+<paper-toast id="toast1" text="Your draft has been discarded."></paper-toast>
 ```
