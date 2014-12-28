@@ -46,7 +46,25 @@ info for polymer
 注释：
 
 1. class="capsule"  可以出现圆角
-2. 
+
+```css
+:host(.capsule) {
+  border-radius: 24px;
+}
+```
+
+
+2. class="fit-bottom" 
+
+```css
+:host(.fit-bottom) {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  min-width: 0;
+  border-radius: 0;
+}
+```
 
 ```html
 <paper-item icon="refresh" label="Refresh"></paper-item>
