@@ -36,6 +36,8 @@ info for polymer
 
 ## paper-toast
 
+> 我们目前使用的版本里面不包含autoCloseDisabled，可以升级一下
+
 [官方文档](https://www.polymer-project.org/components/paper-toast/demo.html)
 
 * text       显示的文案
