@@ -32,3 +32,22 @@ info for polymer
 ## paper-menu-button
 
 [官方文档](https://www.polymer-project.org/components/paper-menu-button/demo.html)
+
+
+## paper-toast
+
+[官方文档](https://www.polymer-project.org/components/paper-toast/demo.html)
+
+* text       显示的文案
+* duration   显示的时间
+* opened     一开始是否显示，默认false
+* 
+
+注释：
+
+1. class="capsule"  可以出现圆角
+2. 
+
+```html
+<paper-item icon="refresh" label="Refresh"></paper-item>
+```
