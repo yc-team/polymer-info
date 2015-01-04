@@ -21,6 +21,8 @@ infos for polymer, include paper-* and core-*
 
 ## core-icon
 
+> 注意里面的图标
+
 [官方文档](https://www.polymer-project.org/components/core-icon/demo.html)
 
 
