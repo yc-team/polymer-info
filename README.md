@@ -1,9 +1,9 @@
 polymer-info
 ============
 
-info for polymer
+infos for polymer, include paper-* and core-*
 
-## pager-item
+## paper-item
 
 [官方文档](https://www.polymer-project.org/docs/elements/paper-elements.html#paper-item)
 
