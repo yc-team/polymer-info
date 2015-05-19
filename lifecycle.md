@@ -17,7 +17,7 @@ Polymer('tag-name', {
 
 //不建议
 Polymer('tag-name', {
-	list = []
+	list: []
 });
 ```
 
